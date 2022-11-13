@@ -1,0 +1,64 @@
+permitID,parcel,type,description,address,cost,application_date,issued_date,sqft,status
+BLDR-000083-2023,1632000090120001,residential addition,12' x 40' detached wood framed storage building on slab.,"600 Rogers St, Columbia, MO 65201",31910.40,10/05/2022,10/05/2022,480,Issued
+BLDR-000390-2023,1631300030170001,residential addition,"garage and storage addition within existing setbacks.   Existing house is 4 feet from south property line but addition will require 6' setback. Electric to be added later,  no driveway to addition","505 Pershing Rd, Columbia, MO 65203",79776.00,10/24/2022,10/26/2022,1200,Issued
+BLDR-000399-2023,1680000060400001,residential addition,4 season room at rear of home.,"1923 Devonshire Dr, Columbia, MO 65203",77725.44,10/24/2022,10/26/2022,468,Issued
+BLDR-000309-2023,1720400000250001,residential addition,31' x 31' pole barn style addition to existing detached garage,"4810 St Charles Rd, Columbia, MO 65201",63887.28,10/17/2022,10/28/2022,961,Issued
+BLDR-000454-2023,1760000011790001,residential addition,Add bonus room and additional garage,"904 Old Hawthorne Drive East, Columbia, MO 65201",100418.40,10/27/2022,10/28/2022,1100,Issued
+BLDR-000434-2023,1660500050050001,residential addition,Addition to rear or west side of residence to include living space and bathroom,"111 Maplewood Dr, Columbia, MO 65203",103633.92,10/26/2022,10/31/2022,600,Issued
+BLDC-004637-2022,1250300100010001,commercial alteration,"The 3M Columbia, MO plant is planning to remove the existing Washline 1 and install a new dynamic washline and glycerin dryer oven in the Kahuna process area. The  project will plan space and utilities for up to four total dynamic washlines in the future. This project includes modifications to the existing mechanical HVAC and piping in the area,  modifications to lighting and power distribution, and architectural and structural modifications.","5400 Paris Rd, Columbia, MO 65202",680000.00,09/08/2022,10/05/2022,8700,Issued
+BLDC-004186-2022,1740200170010001,commercial alteration,Interior alteration for mental health counseling center for veterans. The scope of work is limited to the lower level of the existing building.,"2475 Broadway Bluffs Dr, STE 1, Columbia, MO 65201",800000.00,08/10/2022,10/06/2022,5725,Issued
+BLDC-000201-2023,1622000030010101,commercial alteration,Non structural repairs to exterior wall from vehicle impact.,"1912 W Worley St, Columbia, MO 65203",0.00,10/10/2022,10/10/2022,0,Issued
+BLDC-004572-2022,1650100020390901,commercial alteration,"Adding walls to make offices, ceilings and lights.   Has 2 existing HC baths - no work.   Has water & electric meters.  Non-sprinklered.   Minor demo of a few walls &  ceilings. Type 2B const. Offices.","3400 Broadway Business Park Ct STE, 102, Columbia, MO 65203",254989.10,09/01/2022,10/11/2022,2391,Issued
+BLDC-004698-2022,1660400020060001,commercial alteration,"Remodel and Related Improvements to ""The Wylder"" Apartment Complex. 10 apartment buildings. Level 2 Alteration of all 172 apartments. Remodel of 328 bathrooms.","301 Campusview Dr, Columbia, MO 65201",3936000.00,09/13/2022,10/12/2022,200000,Issued
+BLDC-004698-2022,1660400020060001,commercial alteration,"Remodel and Related Improvements to ""The Wylder"" Apartment Complex. 10 apartment buildings. Level 2 Alteration of all 172 apartments. Remodel of 328 bathrooms.","301 Campusview Dr, Columbia, MO 65201",3936000.00,09/13/2022,10/12/2022,200000,Issued
+BLDC-000333-2023,1691200010210001,commercial alteration,Cross Fit,"3601 Buttonwood Dr, STE A, Columbia, MO 65201",0.00,10/19/2022,10/20/2022,0,Issued
+BLDC-004965-2022,1631200010030001,commercial alteration,installation of paint booth,"1800 Commerce Ct, Columbia, MO 65202",15000.00,09/29/2022,10/25/2022,465,Issued
+BLDR-004966-2022,1620300091600001,residential alteration,Install Home Standby Generator,"4102 Fritz Ct, Columbia, MO 65203",0.00,09/29/2022,10/04/2022,0,Issued
+BLDR-004969-2022,1650300080260001,residential alteration,Convert 180sf of attic to living space,"2501 Lenox Pl, Columbia, MO 65203",26699.40,09/29/2022,10/05/2022,180,Issued
+BLDR-000379-2023,1691800020610001,residential alteration,Finish kitchen area in basement for daycare use,"5105 Cedar Ridge Dr, Columbia, MO 65203",37368.00,10/21/2022,10/21/2022,225,Issued
+BLDR-000216-2023,1660500040560001,residential alteration,Bathroom Remodel's master and hall baths,"609 Westridge Dr, Columbia, MO 65203",20000.00,10/11/2022,10/25/2022,100,Issued
+BLDR-004818-2022,1690700030020201,residential alteration,"Remodel replace windows, expanding kitchen, 2 baths","2806 Melody Ln, Columbia, MO 65203",100000.00,09/20/2022,10/27/2022,0,Issued
+BLDR-000319-2023,1711700010730001,residential alteration,Remodel inside of existing accessory structure. This not to be used as a dwelling,"1409 Pratt St, Columbia, MO 65201",50000.00,10/18/2022,10/28/2022,0,Issued
+BLDR-000522-2023,1711700240070001,residential alteration,Rehabilitate remodel after fire damage.,"2 Fyfer Pl, Columbia, MO 65201",25000.00,10/31/2022,10/31/2022,800,Issued
+BLDR-000523-2023,1711700240070001,residential alteration,Remodel rehab fire damaged unit,"1714 E Broadway APT, A, Columbia, MO 65201",25000.00,10/31/2022,10/31/2022,800,Issued
+BLDR-000466-2023,1270300031670001,residential alteration,Install a 24KW generator with a 200amp automatic transfer switch and run gas line,"1520 Affirmed Dr, Columbia, MO 65202",14500.00,10/27/2022,10/31/2022,0,Issued
+POOL-004695-2022,,pool (1&2 family),,"3308 Wentworth Dr, Columbia, MO 65203",28000.00,09/12/2022,10/14/2022,392,"..Pending..
+.Issued"
+BLDC-003277-2022,1632000172340001,commericial multifamily,6 Story Building of Pedestal Construction with Commercial Use on the first floor and 5 floors above the rated pedestal of non-combustible wood construction. Covered  Parking with 65 one bedroom apartment units.,"1000 E Broadway, Columbia, MO 65201",7805309.95,06/14/2022,10/11/2022,53118,Issued
+BLDC-001422-2022,1691200080010001,commercial new,Sonic #1858,"3700 Buttonwood Dr, Columbia, MO 65201",311916.90,01/27/2022,10/03/2022,1906,Issued
+DECK-000092-2023,1620100050070001,deck,Replace Existing Deck,"1606 Apple Valley Ct, Columbia, MO 65202",15000.00,10/05/2022,10/07/2022,0,Complete
+DECK-000085-2023,1270800040350001,deck,construct 240sf deck,"3501 Venice Dr, Columbia, MO 65202",15955.20,10/05/2022,10/13/2022,0,Issued
+DECK-000314-2023,1690800010340001,deck,DECK REPACEMENT,"455 Foxfire Dr, Columbia, MO 65201",5200.00,10/18/2022,10/19/2022,0,Issued
+DECK-000313-2023,1690800010330001,deck,DECK REPLACEMENT,"457 Foxfire Dr, Columbia, MO 65201",5200.00,10/18/2022,10/19/2022,0,Complete
+DECK-000337-2023,1650100020180001,deck,Replace existing deck,"3109 Meghann Dr, Columbia, MO 65203",40000.00,10/19/2022,10/20/2022,0,Issued
+BLDR-004935-2022,1271800020060001,new duplex,Lot 20 Oakland Hills  New Residential Duplex,"1813 Sundeck Dr, Columbia, MO 65202",316078.36,09/27/2022,10/03/2022,2472,Issued
+BLDR-004948-2022,1271800020060001,new duplex,Lot 20 Oakland Hills  New Residential Duplex,"1815 Sundeck Dr, Columbia, MO 65202",316078.36,09/27/2022,10/03/2022,2472,Issued
+BLDR-004934-2022,1271800020050001,new duplex,Lot 19 Oakland Hills  New Residential duplex,"1901 Sundeck Dr, Columbia, MO 65202",316078.36,09/27/2022,10/03/2022,2472,Issued
+BLDR-004952-2022,1271800020050001,new duplex,"Lot 19, Oakland Hills  New Residential duplex","1903 Sundeck Dr, Columbia, MO 65202",316078.36,09/27/2022,10/03/2022,2472,Issued
+ROOF-000037-2023,1641200030680001,re-roof,Complete tear off and replacement of roof and accessories. No other services will be provided,"1100 Steelhead Ct, Columbia, MO 65203",12200.00,10/04/2022,10/04/2022,0,Issued
+ROOF-003567-2022,1770200010070001,re-roof,Re-roof roof with 60 mil TPO,"3312 Lemone Industrial Blvd, Columbia, MO 65201",181024.00,06/30/2022,10/04/2022,0,Issued
+ROOF-000038-2023,1690600041500001,re-roof,Complete tear off and replacement of roof and accessories. No other services will be provided.,"805 Sycamore Ln, Columbia, MO 65203",7720.00,10/04/2022,10/05/2022,0,Issued
+ROOF-000041-2023,1650300090630001,re-roof,Complete tear off and replacement of roof and accessories. No other services will be provided.,"3704 Addison Dr, Columbia, MO 65203",20100.00,10/04/2022,10/05/2022,0,Issued
+ROOF-000219-2023,1721000000040001,re-roof,Complete tear off and replacement of roof and accessories. No other services will be provided.,"1804 Mckee St, Columbia, MO 65202",5620.90,10/11/2022,10/11/2022,0,Issued
+ROOF-004858-2022,1660800060090001,re-roof,Full roof tear off and replacement,"625 S Fourth St, Columbia, MO 65201",1575734.00,09/22/2022,10/13/2022,0,Issued
+ROOF-000134-2023,1641200030190001,re-roof,Reroof,"1006 Golden Trout Ct, Columbia, MO 65203",14695.00,10/06/2022,10/14/2022,0,Issued
+ROOF-000134-2023,1641200030190001,re-roof,Reroof,"1006 Golden Trout Ct, Columbia, MO 65203",14695.00,10/06/2022,10/14/2022,0,Issued
+ROOF-000320-2023,1641600030400001,re-roof,Complete tear off and replacement of roof and accessories. No other services will be provided.,"1805 Limestone Ave, Columbia, MO 65203",18700.00,10/18/2022,10/18/2022,0,Issued
+ROOF-000335-2023,1631300010010001,re-roof,Reroof,"1406 W Business Loop 70, Columbia, MO 65202",41900.00,10/19/2022,10/20/2022,0,Issued
+ROOF-004964-2022,1660900010510001,re-roof,Replace roof,"1206 Sunset Dr, Columbia, MO 65203",11722.79,09/29/2022,10/26/2022,0,Issued
+ROOF-004708-2022,1650300140010001,re-roof,Reroof,"4105 Town Square Dr, Columbia, MO 65203",8000.00,09/13/2022,10/28/2022,0,Issued
+ROOF-004706-2022,1650300140060001,re-roof,Reroof,"4105 Town Square Dr, Columbia, MO 65203",12000.00,09/13/2022,10/28/2022,0,Issued
+DEMO-004448-2022,1631600020070001,residential demolition,Demo res. structure,"918 N Eighth St, Columbia, MO 65201",0.00,08/24/2022,10/14/2022,0,Issued
+DEMO-004447-2022,1631600020060001,residential demolition,Demo res. structure,"1000 N Eighth St, Columbia, MO 65201",0.00,08/24/2022,10/14/2022,0,Issued
+DEMO-002489-2022,1660700010630001,residential demolition,Demo res. structure,"609 Westmount Ave, Columbia, MO 65203",0.00,04/27/2022,10/21/2022,0,Issued
+BLDR-004922-2022,1660600030080001,single family detached,119 Lindell Drive; Lot 11 Taylor Subdivision home is being rebuilt in same location as home that burned down.,"119 Lindell Dr, Columbia, MO 65203",452110.88,09/27/2022,10/03/2022,4046,Issued
+BLDR-004953-2022,1740400030060001,single family detached,"Lot 231 Bluff Creek Estates, P2-B","2401 Catalpa Ct, Columbia, MO 65201",1194440.31,09/28/2022,10/04/2022,10052,Issued
+BLDR-004978-2022,1240400020760001,single family detached,"Lot 406, The villages at Arbor Pointe, P4","3316 Yellowwood Dr, Columbia, MO 65202",260021.75,09/30/2022,10/04/2022,2075,Issued
+BLDR-000029-2023,1290300010210001,single family detached,Lot 21 Fox Creek,"6177 Partridge Ct, Columbia, MO 65202",529556.04,10/04/2022,10/06/2022,3838,Issued
+BLDR-000028-2023,1290300010190001,single family detached,Lot 19 Fox Creek,"6185 Partridge Ct, Columbia, MO 65202",485469.84,10/04/2022,10/06/2022,3448,Issued
+BLDR-000215-2023,1270400050100001,single family detached,"Lot 110 of Boone Prairie Village, Plat No. 1, Recorded in Plat Book 54, Page 48, Located in Columbia, Boone County, Missouri.","3805 Ramble Dr, Columbia, MO 65202",237181.20,10/11/2022,10/12/2022,1665,Issued
+BLDR-000279-2023,1750200061720001,single family detached,"Lot 297, The Brooks, P2","1050 Shore Acres Loop, Columbia, MO 65201",381621.12,10/14/2022,10/19/2022,2744,Issued
+BLDR-000245-2023,1660700010630001,single family detached,"Lot 56, Westmount Addition / Includes detached garage","609 Westmount Ave, Columbia, MO 65203",640452.36,10/12/2022,10/21/2022,5798,Issued
+BLDR-000222-2023,1640200080920001,single family detached,Lot 216 Breckenridge Park,"5416 Briar Rose Ct, Columbia, MO 65203",528957.12,10/11/2022,10/24/2022,3919,Issued
+BLDR-000326-2023,2020000110750001,single family detached,"Lot 212, The Gates, P2 & 3","2917 Farleigh Ct, Columbia, MO 65203",736532.52,10/18/2022,10/24/2022,5415,Issued
+BLDR-000351-2023,1750200062720001,single family detached,"Lot 724, The Brooks, P3","4825 Stayton Ferry Loop, Columbia, MO 65201",356128.80,10/20/2022,10/27/2022,2810,Issued
